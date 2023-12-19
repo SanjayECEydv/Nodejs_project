@@ -1,0 +1,2 @@
+To type on command prompt: node App.js
+To type on browser: http://localhost:3004
